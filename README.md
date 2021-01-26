@@ -1,7 +1,17 @@
 # hello-world
-My introduction to the world of GitHub 20-02-2019
+An update to my introduction to the world of GitHub 20210126
 
-Officially, I am new to coding, but I have been laying the foundation for a long time.  My professional work has always included solving problems that involve data, up until the point that the volume and velocity of data outmatched the tools and skills I had at my disposal.  I have nearly completed a Certificate in Business Intelligence and Analytics from the University of Calgary continuing education department.  The focus of this certificate program is the tools, techniques and strategies to bring together people, processes, technology, and data to solve buisness problems more effectively.
+My professional work has always included solving problems that involve data. Coding helps me expand tools and skills I have at my disposal to manage ever increasing volume, velocity, and types of data.  
+
+Most recently I have been learning Python through the "Learn Python Programming Masterclass" course on Udemy. 
+https://www.udemy.com/course/python-the-complete-python-developer-course/
+
+My goal is to develop my Python coding skills so that I can perform data analytics efficiently using Python.
+
+
+I also have a Certificate in Business Intelligence and Analytics from the University of Calgary continuing education department.  The focus of this certificate program is the tools, techniques and strategies to bring together people, processes, technology, and data to solve buisness problems more effectively.
+
+The certificate covers the following topics
 
   Coding in T-SQL, DAX, M-language
   Design considerations for creating databases, optimizing queries, and writing readable code.
@@ -14,4 +24,4 @@ Officially, I am new to coding, but I have been laying the foundation for a long
   Exposure to the Microsoft BI Stack of applications: T-SQL, MSSMS, SSIS, SSAS, SSRS, Mobile Reports, and PowerBI.
   Developed interactive dashboards using PowerBI and Tableau. 
 
-My goal is to develop my coding skills, with R as my next target, and showcase my skills in business analysis and how I can leverage data to solve problems and provide actionable insights.
+
